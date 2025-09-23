@@ -1,2 +1,2 @@
 # ChipXTLK
-yes
+``` lua print("Test") ```
