@@ -1,3 +1,3 @@
 # ChipX Reborn | TLK Prison Beta
 ``` luau
-print("Test")
+game:GetService("RunService")
