@@ -6,4 +6,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Professinalskid/ChipX
 ``` luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Professinalskid/ChipXPrivateforTlk/refs/heads/main/ChipXPrivate.luau"))()
 ```
-you need to be whitelisted
+You Need To Be Whitelisted To Use ChipX Private/CXP
