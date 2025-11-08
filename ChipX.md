@@ -1,6 +1,6 @@
 # ChipX Reborn | TLK Prison Beta
 ``` luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Professinalskid/ChipX-for-Tlk-Prison-Beta/refs/heads/main/TLK%20Prison.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Professinalskid/ChipXPublicTLKBeta/refs/heads/main/ChipX%20Public.lua"))()
 ```
 # ChipX Private CXP
 ``` luau
